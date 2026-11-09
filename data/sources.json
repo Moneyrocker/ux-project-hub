@@ -1,0 +1,77 @@
+[
+  {
+    "id": "next-docs",
+    "title": "Next.js 静态导出文档",
+    "url": "https://nextjs.org/docs/app/guides/static-exports",
+    "projectIds": [
+      "ux-research",
+      "product-experience",
+      "community-design",
+      "discovery-design",
+      "feedback-review"
+    ],
+    "type": "website",
+    "source": "official-public-documentation",
+    "status": "index-only",
+    "note": "公开技术参考链接，不是业务研究证据。",
+    "updatedAt": null,
+    "indexedAt": "2026-11-09",
+    "sensitivity": "public",
+    "topics": [
+      "公开文档"
+    ],
+    "localPath": null,
+    "relatedDocuments": [],
+    "accessStatus": "public"
+  },
+  {
+    "id": "shadcn-sidebar",
+    "title": "shadcn/ui Sidebar Blocks",
+    "url": "https://ui.shadcn.com/blocks/sidebar",
+    "projectIds": [
+      "ux-research",
+      "product-experience",
+      "community-design",
+      "discovery-design",
+      "feedback-review"
+    ],
+    "type": "website",
+    "source": "official-public-documentation",
+    "status": "index-only",
+    "note": "公开技术参考链接，不是业务研究证据。",
+    "updatedAt": null,
+    "indexedAt": "2026-11-09",
+    "sensitivity": "public",
+    "topics": [
+      "公开文档"
+    ],
+    "localPath": null,
+    "relatedDocuments": [],
+    "accessStatus": "public"
+  },
+  {
+    "id": "pages-docs",
+    "title": "GitHub Pages 自定义工作流",
+    "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages",
+    "projectIds": [
+      "ux-research",
+      "product-experience",
+      "community-design",
+      "discovery-design",
+      "feedback-review"
+    ],
+    "type": "website",
+    "source": "official-public-documentation",
+    "status": "index-only",
+    "note": "公开技术参考链接，不是业务研究证据。",
+    "updatedAt": null,
+    "indexedAt": "2026-11-09",
+    "sensitivity": "public",
+    "topics": [
+      "公开文档"
+    ],
+    "localPath": null,
+    "relatedDocuments": [],
+    "accessStatus": "public"
+  }
+]

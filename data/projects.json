@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ux-research",
+    "name": "UX Research",
+    "short": "UR",
+    "subtitle": "研究方法与文档模板",
+    "summary": "用通用方法演示可追溯的研究知识整理。",
+    "stage": "公开示例",
+    "categories": [
+      {
+        "id": "overview",
+        "title": "项目概览"
+      },
+      {
+        "id": "business",
+        "title": "业务与产品"
+      },
+      {
+        "id": "research",
+        "title": "用户研究"
+      },
+      {
+        "id": "decisions",
+        "title": "会议与决策"
+      },
+      {
+        "id": "strategy",
+        "title": "体验策略"
+      },
+      {
+        "id": "design",
+        "title": "设计方案"
+      },
+      {
+        "id": "questions",
+        "title": "待确认事项"
+      }
+    ],
+    "relatedProjectIds": [
+      "product-experience",
+      "community-design"
+    ]
+  },
+  {
+    "id": "product-experience",
+    "name": "Product Experience",
+    "short": "PE",
+    "subtitle": "产品体验与信息架构",
+    "summary": "用示例内容组织问题、方案和验证。",
+    "stage": "公开示例",
+    "categories": [
+      {
+        "id": "overview",
+        "title": "项目概览"
+      },
+      {
+        "id": "business",
+        "title": "业务与产品"
+      },
+      {
+        "id": "research",
+        "title": "用户研究"
+      },
+      {
+        "id": "decisions",
+        "title": "会议与决策"
+      },
+      {
+        "id": "strategy",
+        "title": "体验策略"
+      },
+      {
+        "id": "design",
+        "title": "设计方案"
+      },
+      {
+        "id": "questions",
+        "title": "待确认事项"
+      }
+    ],
+    "relatedProjectIds": [
+      "ux-research",
+      "community-design"
+    ]
+  },
+  {
+    "id": "community-design",
+    "name": "Community Design",
+    "short": "CD",
+    "subtitle": "社区体验设计",
+    "summary": "以通用活动服务流程演示知识分类。",
+    "stage": "公开示例",
+    "categories": [
+      {
+        "id": "overview",
+        "title": "项目概览"
+      },
+      {
+        "id": "business",
+        "title": "业务与产品"
+      },
+      {
+        "id": "research",
+        "title": "用户研究"
+      },
+      {
+        "id": "decisions",
+        "title": "会议与决策"
+      },
+      {
+        "id": "strategy",
+        "title": "体验策略"
+      },
+      {
+        "id": "design",
+        "title": "设计方案"
+      },
+      {
+        "id": "questions",
+        "title": "待确认事项"
+      }
+    ],
+    "relatedProjectIds": [
+      "ux-research",
+      "product-experience"
+    ]
+  },
+  {
+    "id": "discovery-design",
+    "name": "Search & Discovery",
+    "short": "SD",
+    "subtitle": "搜索与发现体验",
+    "summary": "记录通用检索、筛选与推荐设计方法。",
+    "stage": "公开示例",
+    "categories": [
+      {
+        "id": "overview",
+        "title": "项目概览"
+      },
+      {
+        "id": "business",
+        "title": "业务与产品"
+      },
+      {
+        "id": "research",
+        "title": "用户研究"
+      },
+      {
+        "id": "decisions",
+        "title": "会议与决策"
+      },
+      {
+        "id": "strategy",
+        "title": "体验策略"
+      },
+      {
+        "id": "design",
+        "title": "设计方案"
+      },
+      {
+        "id": "questions",
+        "title": "待确认事项"
+      }
+    ],
+    "relatedProjectIds": [
+      "ux-research",
+      "product-experience"
+    ]
+  },
+  {
+    "id": "feedback-review",
+    "name": "Feedback & Review",
+    "short": "FR",
+    "subtitle": "反馈与设计审查",
+    "summary": "以检查清单记录体验问题，不展示真实指标。",
+    "stage": "公开示例",
+    "categories": [
+      {
+        "id": "overview",
+        "title": "项目概览"
+      },
+      {
+        "id": "business",
+        "title": "业务与产品"
+      },
+      {
+        "id": "research",
+        "title": "用户研究"
+      },
+      {
+        "id": "decisions",
+        "title": "会议与决策"
+      },
+      {
+        "id": "strategy",
+        "title": "体验策略"
+      },
+      {
+        "id": "design",
+        "title": "设计方案"
+      },
+      {
+        "id": "questions",
+        "title": "待确认事项"
+      }
+    ],
+    "relatedProjectIds": [
+      "ux-research",
+      "product-experience"
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+import fs from 'node:fs';import path from 'node:path';
+const roots=process.argv.slice(2);if(!roots.length)throw new Error('Specify audit roots');
+const patterns=[/https?:\/\/(?:docs|drive)\.google\.com/i,/sk-[a-zA-Z0-9]{24,}/,/gh[pousr]_[a-zA-Z0-9]{30,}/,/-----BEGIN (?:RSA |OPENSSH |EC )?PRIVATE KEY-----/,/\/Users\/[^/]+\//,/sensitivity["\\\s:]+internal/i];
+let n=0;function walk(p){if(fs.lstatSync(p).isSymbolicLink())throw new Error('No symlinks: '+p);if(fs.statSync(p).isDirectory()){for(const f of fs.readdirSync(p))if(!['node_modules','.git','.next'].includes(f))walk(path.join(p,f));return;}const text=fs.readFileSync(p).toString();if(patterns.some(re=>re.test(text)))throw new Error('Public audit failed: '+p);n++;}for(const p of roots)walk(p);console.log('Public audit passed: '+n+' files');

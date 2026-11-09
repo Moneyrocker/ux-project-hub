@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.env*
+*.log
+*.tsbuildinfo
+.DS_Store
+artifacts/
+
+node_modules
